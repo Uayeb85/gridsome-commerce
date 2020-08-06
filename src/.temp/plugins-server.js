@@ -1,4 +1,4 @@
-import plugin_gridsome_plugin_tailwindcss_8 from "/home/uayeb/Escritorio/gridcommerce/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
+import plugin_gridsome_plugin_tailwindcss_8 from "/home/uayeb/Escritorio/gridsome-commerce/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
 
 export default [
   {
