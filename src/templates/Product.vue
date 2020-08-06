@@ -27,7 +27,7 @@
                                   :data-item-name="$page.product.title"
                                   :data-item-price="$page.product.price"
                                   :data-item-image="$page.product.featuredImage"
-                                  :data-item-url="'http://localhost:8080/' + $page.product.path"
+                                  :data-item-url="'https://gracious-swirles-a8c075.netlify.app/' + $page.product.path"
                                   :data-item-description="$page.product.about">
                                   Comprar</button>
                     </div>
