@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: "static/uploads"
+public_folder: "/uploads" 
+
+collections:
+  - name: 'products'
+    label: 'Products'
+    folder: 'products'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Featured Image', name: 'featuredImage', widget: 'image' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Price', name: 'price', widget: 'string' }
+      - { label: 'Code', name: 'code', widget: 'string' }
+      - { label: 'Brand', name: 'brand', widget: 'string'}
+      - { label: 'About', name: 'about', widget: 'string'}
