@@ -1,6 +1,6 @@
 ---
 title: Gato Negro
-featuredImage: /uploads/22a0963c977f80cbfb7afa397d30fa7f.png
+featuredImage: /uploads/cat-1.jpg
 description: "Gato Bombay unico "
 price: "1000"
 code: "03"
