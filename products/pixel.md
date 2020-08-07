@@ -1,6 +1,7 @@
 ---
 title: Pixel 4a
 featuredImage: /uploads/air.jpg
+ecommerceImage: /uploads/perro.jpeg
 description: >-
   Pixel 4a de GOOGLE
 price: '880'

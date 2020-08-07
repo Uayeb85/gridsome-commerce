@@ -1,6 +1,7 @@
 ---
 title: Reloj Inteligente
 featuredImage: /uploads/air.jpg
+ecommerceImage: /uploads/perro.jpeg
 description: >-
   Reloj inteligente APPLEv4
 price: '399'

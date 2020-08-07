@@ -12,6 +12,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Featured Image', name: 'featuredImage', widget: 'image' }
+      - { label: 'Ecommerce Image', name: 'ecommerceImage', widget: 'image' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Price', name: 'price', widget: 'string' }
       - { label: 'Code', name: 'code', widget: 'string' }
